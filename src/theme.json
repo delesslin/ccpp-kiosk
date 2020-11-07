@@ -1,0 +1,16 @@
+{
+  "colors": {
+    "navy": "#051940",
+    "teal": "#41b2a2",
+    "yellow": "#FBC10B",
+    "blue": "#0BBCEE",
+    "red": "#F25A38",
+    "white": "#fff",
+    "black": "#000"
+  },
+  "fonts": {
+    "dm": "'DM Serif Text', serif",
+    "lato": "'Lato', sans-serif",
+    "noto": "'Noto Sans', sans-serif"
+  }
+}
